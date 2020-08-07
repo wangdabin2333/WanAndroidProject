@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: me.jessyan:lifecyclemodel:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a339e0cc9f28c08c59623eae550eb89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a339e0cc9f28c08c59623eae550eb89/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.jessyan/lifecyclemodel/1.0.1/5da8163a4c9ea1b9db4be6c0078a44a8fb111a3e/lifecyclemodel-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.jessyan/lifecyclemodel/1.0.1/ba0a80a90ad2cbd3c3440993c8ae4ab3533666d5/lifecyclemodel-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
